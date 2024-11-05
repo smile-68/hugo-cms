@@ -4,33 +4,34 @@ subtitle: Where laughter sparks genius, teachers turn edu-comedians, and
   academic stardom giggles its way to the top
 image: img/edc7a1bda0484aef8f8d69694818b942.webp
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Why JoyBell?
+  text: Need a dose of laughter in your teaching? Explore JoyBell and get ready to
+    ignite smiles, engage students, and create unforgettable learning
+    experiences
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  heading: The SMILE Wizardry | Unleashing Hilarious Learning Experiences
+  text: >-
+    Silly Shenanigans: We sprinkle our curriculum with laughter and playful
+    antics, creating a learning environment that is engaging, hilarious, and
+    keeps students on their toes
+
+
+    Magical Mashups: We encourage students to connect the dots between different subjects, blending them together like a mad scientist's experiment. This sparks their imagination, fuels their critical thinking, and lets them uncover the hidden wonders of the world
+
+
+    Interactive Insanity: We believe in hands-on activities that make students jump, shout, and high-five each other in excitement. Our classroom is a joyful carnival of group projects, gamified learning, and wild experiments that ignite their creativity, collaboration, and contagious enthusiasm
+
+
+    Lively Expressions: We help students find their voice, teaching them to communicate with charisma, charm, and confidence. From hilarious presentations to uproarious debates, they learn to express their ideas, collaborate with flair, and conquer the world with their infectious wit.
+
+
+    Effortless Efficiency:  We embrace the Zen of "less is more" and unleash the power of mindful learning. Cut the curriculum fluff, prioritize with ninja-like precision, and create epic​ learning experiences with effortless application of AI technology
+products: []
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Get your mojo grooving
+  text: |-
+    Ring the JoyBell, give it a ding
+    Leave behind the serious schooling
+    There's a funny bone in everything
+    That's how we tickle students pink
 ---
